@@ -1,0 +1,28 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "firetechie",
+      "name": "Vishwanath Hegde",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39486723?v=4",
+      "profile": "https://firetechie.github.io",
+      "contributions": [
+        "code",
+        "doc",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "firetechie",
+  "projectOwner": "firetechie",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
